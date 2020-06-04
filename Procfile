@@ -1,1 +1,1 @@
-web: gunicorn swflreliefrealty.wisgi
+web: gunicorn config.wisgi
