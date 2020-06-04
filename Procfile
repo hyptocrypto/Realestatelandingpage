@@ -1,1 +1,1 @@
-web: gunicorn myproject.wisgi
+web: gunicorn swflreliefrealty.wisgi
