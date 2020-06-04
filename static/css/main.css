@@ -293,18 +293,25 @@ textarea.input100 {
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
   border-radius: 31px;
-  background-color: #827ffe;
+  background-color: #4eb980;
   pointer-events: none;
   
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
   transition: all 0.4s;
+  border-style: solid;
+  border-color: white; 
 }
 
 .contact100-form-btn:hover:before {
-  background-color: #403866;
+  background-color: #09460c;
   width: calc(100% + 20px);
+  border-radius: 66px ;
+  border-style: dashed;
+  border-color: #4eb980;
+
+
 }
 
 
